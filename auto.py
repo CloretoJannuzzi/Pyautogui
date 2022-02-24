@@ -28,5 +28,4 @@ pyautogui.hotkey('alt', 'tab')
 pyautogui.mouseUp()  # onde quer soltar o arquivo
 
 time.sleep(5)
-pyautogui.alert(
-    'Código finalizado! Já pode voltar a utilizar o seu computador.')
+pyautogui.alert('Código finalizado! Já pode voltar a utilizar o seu computador.')
